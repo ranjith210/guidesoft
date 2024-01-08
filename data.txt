@@ -1,0 +1,5 @@
+{'ranjith123': {'ranjith123@': {'Name': 'Ranjith', 'Phone Number': '9908941245', 'Date of birth': '03/03/2001', 'Age': 19, 'Account type': 'Major', 'Balance': 1110443, 'Door No': 'flat no.2, maruti nilayam, brodipet', 'Street Name': '2/6 brodipet', 'City': 'Guntur', 'Account No': 6493}}}
+{6493: {'Name': 'Ranjith', 'Phone Number': '9908941245', 'Date of birth': '03/03/2001', 'Age': 19, 'Account type': 'Major', 'Balance': 1110443, 'Door No': 'flat no.2, maruti nilayam, brodipet', 'Street Name': '2/6 brodipet', 'City': 'Guntur', 'Account No': 6493}}
+{6493: {}}
+{6493: {'ranjith123': 'ranjith123@'}}
+[6493]
